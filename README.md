@@ -1,2 +1,2 @@
-# Ejercicio_1_SAS
+# Excersise_1_SAS
 First excersise from SAS course
